@@ -1,0 +1,12 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+}
+.profile-photo {
+    font-size: medium;
+}
+.profile-name {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: xx-large;
+    font-style: italic;
+}
